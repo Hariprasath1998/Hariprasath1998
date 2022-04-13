@@ -1,7 +1,6 @@
 - Hi, I’m Hari
 - He/ Him are my pronouns
-- I’m interested in Web Dev
-- I’m currently learning MongoDB
+- I’m currently learning Terraform
 
 
 <!---

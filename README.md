@@ -1,6 +1,5 @@
 - Hi, I’m Hari
 - He/ Him are my pronouns
-- I’m currently learning Terraform
 
 
 <!---
